@@ -17,7 +17,7 @@ namespace NbIotBackend
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new NbIotBackend()
             };
             ServiceBase.Run(ServicesToRun);
         }

@@ -1,6 +1,6 @@
 ﻿namespace NbIotBackend
 {
-    partial class Service1
+    partial class NbIotBackend
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // NbIotBackend
+            // 
+            this.ServiceName = "NbIotBackend";
+
         }
 
         #endregion
